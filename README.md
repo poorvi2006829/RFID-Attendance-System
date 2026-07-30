@@ -45,7 +45,7 @@ Connect the RC522 to the NodeMCU as follows:
 | GND | GND |
 | 3.3V | 3V3 |
 
-> ⚠️ The RC522 is a **3.3V** device — do not power it from the 5V pin.
+The RC522 is a **3.3V** device — do not power it from the 5V pin.
 
 The buzzer's positive lead connects to a spare digital GPIO (e.g. D3) with the negative lead to GND.
 
